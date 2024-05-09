@@ -18,8 +18,12 @@ Oi, tudo bem? Vanuza aqui!
 <div>
   <img align="right" height="160" widht="160" src="https://cdn.discordapp.com/attachments/1206723623591616572/1238201190999785566/Design_sem_nome.gif?ex=663e6c38&is=663d1ab8&hm=c699ba5ae9d91b5c45668fd15c89746ec1685ff5ce025995b09c2cdcc3ae3735&">
 </div>
-         
+
+
+![snake gif](https://github.com/VanuzaMendes/VanuzaMendes/blob/output/github-contribution-grid-snake.gif)
+
 ##
+
 
 
 <div>
