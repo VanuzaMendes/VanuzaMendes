@@ -1,20 +1,18 @@
-Oi, tudo bem? Vanuza aqui!
+<font size="4" face="lato"><b>Oi, tudo bem? Vanuza aqui!
 
-- 🔭 Atualmente trabalho como Assistente Administrativo.
-- 🌱 Estudando HTML, CSS, Python e C.
-
-
-![snake gif](https://github.com/VanuzaMendes/VanuzaMendes/blob/output/github-contribution-grid-snake.gif)
-  
+- 💼 Atualmente trabalho como Assistente Administrativo.
+- 💻 Estudando HTML, CSS, Python e C.
+<b>
+  </font>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanuzaMendes&show_icons=true&theme=synthwave)](https://github.com/VanuzaMendes/github-readme-stats)
 
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Van-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Van-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="Van-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Van-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="Van-HTML" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="Van-CSS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="Van-PYTHON" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Van-C" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
 </div>
 
 <div>
