@@ -6,6 +6,7 @@
   </font>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanuzaMendes&show_icons=true&theme=synthwave)](https://github.com/VanuzaMendes/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanuzaMendes&layout=compact&theme=synthwave )
 
 <div style="display: inline_block"><br>
 
